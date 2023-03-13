@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.parent {
+  border: 1px solid black;
+  margin-left: 20px;
+  width: 200px;
+  height: 400px;
+  text-align: center;
+  padding: 5px;
+}
+
+.create-task-wrapper {
+  margin-top: 10px;
+}
+
+.to-do-wrapper {
+}
+
+.task {
+  cursor: pointer;
+}
